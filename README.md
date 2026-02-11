@@ -1,3 +1,4 @@
+<img width="1909" height="986" alt="image" src="https://github.com/user-attachments/assets/b1a404a6-ad59-45c7-aed4-817ba167812d" />
 # AI RESUME ANALYZER (ATS SYSTEM)
 
 AI Resume Analyzer is a Data Science & NLP based application that evaluates resumes against job descriptions using an ATS-style scoring system.
